@@ -1,16 +1,35 @@
-## Hi there 👋
+## Hi! I'm Melina Zahedi Avval
 
-<!--
-**therealmelina/therealmelina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+farzanegan 1 student - computer science, scientific computing
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+languages: Python, CSS, HTML, Arduino
+tools: VS code, Git, GitHub
+areas: Algorithms, Front-end, Back-end, Data Analysis
+
+---
+
+## Projects
+
+Sleepwalking Detection & Alert System:
+
+designed and prototyped a wearable IoT system for detecting
+abnormal movement during sleep and triggering gradual sensory
+stimulation. built with Arduino Nano.
+
+---
+
+## Achievements
+
+---
+
+## Certifications
+
+-[Advanced Python Programming](https://quera.org/certificate/3wZgjwt1)- Quera, 2026
+
+---
+
+## Languages
