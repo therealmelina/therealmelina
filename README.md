@@ -1,16 +1,16 @@
 ## Hi! I'm Melina Zahedi Avval
 
-farzanegan 1 student - computer science, scientific computing
+Farzanegan 1 Middle School / NODET
 
 ---
 
 ## Technical Skills
 
-languages: Python, CSS, HTML, Arduino
+**languages:** Python, CSS, HTML, Arduino, C++
 
-tools: VS code, Git, GitHub
+**tools**: VS code, Git, GitHub, Jupyter Notebook
 
-areas: Algorithms, Front-end, Back-end, Data Analysis
+**areas**: Algorithms, Web Development, Data Analysis, IoT Systems
 
 ---
 
@@ -26,7 +26,9 @@ stimulation. built with Arduino Nano.
 
 ## Achievements
 
-member of the [Young Researchers & Elites Club](https://srb.iau.ir/bpj)
+**Member**, [Young Researchers & Elites Club](https://bpj.iau.ir/) *(2026-present)*
+
+**Member**, SAMPAD - [National Organization for Development of Exceptional Talents](https://nodet.net) *(2025-present)*
 
 ---
 
@@ -42,7 +44,7 @@ member of the [Young Researchers & Elites Club](https://srb.iau.ir/bpj)
 
 Persian (Farsi) - Native
 
-English - Fluent
+English - Fluent (C1)
 
 Arabic - Beginner
 
