@@ -26,13 +26,15 @@ stimulation. built with Arduino Nano.
 
 ## Achievements
 
+member of the [Young Researchers & Elites Club](https://srb.iau.ir/bpj)
+
 ---
 
 ## Certifications
 
--[Fundamentals Of Python](https://quera.org/certificate/cOKUEUWU)- Quera, 2025
+[Fundamentals Of Python](https://quera.org/certificate/cOKUEUWU) Quera, 2025
 
--[Advanced Python Programming](https://quera.org/certificate/3wZgjwt1)- Quera, 2026
+[Advanced Python Programming](https://quera.org/certificate/3wZgjwt1) Quera, 2026
 
 ---
 
