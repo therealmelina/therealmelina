@@ -19,7 +19,9 @@ areas: Algorithms, Front-end, Back-end, Data Analysis
 Sleepwalking Detection & Alert System:
 
 designed and prototyped a wearable IoT system for detecting
+
 abnormal movement during sleep and triggering gradual sensory
+
 stimulation. built with Arduino Nano.
 
 ---
@@ -29,6 +31,8 @@ stimulation. built with Arduino Nano.
 ---
 
 ## Certifications
+
+-[Fundamentals Of Python](https://quera.org/certificate/cOKUEUWU)- Quera, 2025
 
 -[Advanced Python Programming](https://quera.org/certificate/3wZgjwt1)- Quera, 2026
 
