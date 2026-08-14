@@ -7,9 +7,9 @@ farzanegan 1 student - computer science, scientific computing
 ## Technical Skills
 
 languages: Python, CSS, HTML, Arduino
----
+
 tools: VS code, Git, GitHub
----
+
 areas: Algorithms, Front-end, Back-end, Data Analysis
 
 ---
