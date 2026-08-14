@@ -1,9 +1,5 @@
 ## Hi! I'm Melina Zahedi Avval
 
-Farzanegan 1 Middle School / NODET
-
----
-
 ## Technical Skills
 
 **languages:** Python, CSS, HTML, Arduino, C++
@@ -28,7 +24,7 @@ stimulation. built with Arduino Nano.
 
 **Member**, [Young Researchers & Elites Club](https://bpj.iau.ir/) *(2026-present)*
 
-**Member**, SAMPAD - [National Organization for Development of Exceptional Talents](https://nodet.net) *(2025-present)*
+**Member**, [National Organization for Development of Exceptional Talents](https://nodet.net) *(2025-present)*
 
 ---
 
