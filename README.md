@@ -24,7 +24,7 @@ stimulation. built with Arduino Nano.
 
 **Member**, [Young Researchers & Elites Club](https://bpj.iau.ir/) *(2026-present)*
 
-**Member**, [National Organization for Development of Exceptional Talents](https://nodet.net) *(2025-present)*
+**Member**, [National Organization for Development of Exceptional Talents](https://sampad.gov.ir) *(2025-present)*
 
 ---
 
