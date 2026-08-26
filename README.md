@@ -34,6 +34,8 @@ stimulation. built with Arduino Nano.
 
 [Advanced Python Programming](https://quera.org/certificate/3wZgjwt1) Quera, 2026
 
+[Task-Oriented Course in HTML, CSS, Sass, Tailwind, Bootstrap](https://quera.org/certificate/skwnHM2r), Quera, 2026
+
 ---
 
 ## Languages
@@ -43,5 +45,3 @@ Persian (Farsi) - Native
 English - Fluent (C1)
 
 Arabic - Beginner
-
-Russian - Beginner
