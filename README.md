@@ -2,9 +2,9 @@
 
 ## Technical Skills
 
-**languages:** Python, CSS, HTML, Arduino, C++
+**languages:** Python, CSS, HTML, Arduino
 
-**tools**: VS code, Git, GitHub, Jupyter Notebook
+**tools**: VS code, Git, GitHub
 
 **areas**: Algorithms, Web Development, Data Analysis, IoT Systems
 
