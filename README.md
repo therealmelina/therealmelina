@@ -12,7 +12,7 @@
 
 ## Projects
 
-Sleepwalking Detection & Alert System:
+[Sleepwalking Detection & Alert System](https://github.com/therealmelina/sleepwalking-detection-IoT):
 
 designed and prototyped a wearable IoT system for detecting
 abnormal movement during sleep and triggering gradual sensory
