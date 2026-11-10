@@ -4,9 +4,9 @@
 
 **languages:** Python, CSS, HTML, Arduino
 
-**tools**: VS code, Git, GitHub
+**tools**: VS code, Git, GitHub, jupyter notebook
 
-**areas**: Algorithms, Web Development, Data Analysis, IoT Systems
+**areas**: Algorithms, Web Development, SQL, IoT Systems
 
 ---
 
@@ -35,6 +35,8 @@ stimulation. built with Arduino Nano.
 [Advanced Python Programming](https://quera.org/certificate/3wZgjwt1) Quera, 2026
 
 [Task-Oriented Course in HTML, CSS, Sass, Tailwind, Bootstrap](https://quera.org/certificate/skwnHM2r) Quera, 2026
+
+[AI Learning Roadmap Course Elementary Level] (https://quera.org/certificate/skwnHM2r) Sharif Industrial Technology and Innovations Development Center, 2026
 
 ---
 
