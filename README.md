@@ -36,7 +36,7 @@ stimulation. built with Arduino Nano.
 
 [Task-Oriented Course in HTML, CSS, Sass, Tailwind, Bootstrap](https://quera.org/certificate/skwnHM2r) Quera, 2026
 
-[AI Learning Roadmap Course Elementary Level] (https://quera.org/certificate/skwnHM2r) Sharif Industrial Technology and Innovations Development Center, 2026
+[AI Learning Roadmap Course Elementary Level](https://quera.org/certificate/skwnHM2r) Sharif Industrial Technology and Innovations Development Center, 2026
 
 ---
 
